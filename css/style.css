@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+html{
+    background-color: #eeecec;
+}
+
+nav{
+    justify-content: center;
+    display: flex;
+    background-size: cover;
+}
+
+h2{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-size: 40px;
+    font-family: "Noto Sans JP", sans-serif;
+    text-decoration: none;
+    color: #0056b3;
+    font-weight: bold;
+}
+
+.menu{
+    font-size: 30px;
+    font-family: "Noto Sans JP", sans-serif;
+    text-decoration: none;
+    color: #0056b3;
+    font-weight: bold;
+}
+
+.hobby_info{
+    font-size: 25px;
+    font-family: "Noto Sans JP", sans-serif;
+    color: #0056b3;
+}
+
+.introduction{
+    font-size: 20px;
+    margin: 0 0 10px 10px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.hobby_info{
+    text-decoration: double;
+}
+
+.hobby{
+    text-decoration: wavy;
+}
