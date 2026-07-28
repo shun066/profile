@@ -55,3 +55,8 @@ h2{
 .hobby{
     text-decoration: wavy;
 }
+
+.copy{
+    display: flex;
+    justify-content: center;
+}
